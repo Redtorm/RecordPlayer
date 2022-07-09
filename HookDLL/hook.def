@@ -1,0 +1,7 @@
+LIBRARY   "HookDLL"
+
+EXPORTS
+    
+StartHook
+StopHook
+ChooseWindow

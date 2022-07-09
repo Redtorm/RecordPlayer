@@ -1,0 +1,14 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DlgProc.cpp
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(119,73): warning C4244: 'argument': conversion from 'double' to 'LONG', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(119,38): warning C4244: 'argument': conversion from 'double' to 'LONG', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(148,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(149,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(163,24): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(223,5): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _ltoa. See online help for details.
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(225,5): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _ltoa. See online help for details.
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(297,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(297,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(373): warning C4715: 'startHookTool': not all control paths return a value
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(392): warning C4715: 'stopHookTool': not all control paths return a value
+  RecordPlay.vcxproj -> E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\Debug\RecordPlay.exe

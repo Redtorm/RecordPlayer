@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\Release\HookDLL.lib and object E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\Release\HookDLL.exp
+  Generating code
+  3 of 5 functions (60.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HookDLL.vcxproj -> E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\Release\HookDLL.dll

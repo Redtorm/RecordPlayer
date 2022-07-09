@@ -1,0 +1,6 @@
+﻿  DlgProc.cpp
+E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\DlgProc.cpp(145,24): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+  HookProc.cpp
+  RecordPlay.cpp
+  Generating Code...
+  RecordPlay.vcxproj -> E:\study\focus\研一下课程\软件缺陷预测\RecordPlay2.0\Release\RecordPlay.exe
